@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teajuda.Application", "teajuda.Application\teajuda.Application.csproj", "{2D3430AE-B6C8-4B23-8D1F-E060CA7128CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teajuda.Azure", "teajuda.Azure\teajuda.Azure.csproj", "{F627CF16-BA49-4AFB-BB25-14506D621176}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teajuda.Domain", "teajuda.Domain\teajuda.Domain.csproj", "{1C0CA5AF-AF60-47CF-B21D-D07F596DAD6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teajuda.Infrastruture", "teajuda.Infrastruture\teajuda.Infrastruture.csproj", "{18DDB245-1BA5-47B1-B951-0ECC51C7065D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teajuda.Presentation", "teajuda.Presentation\teajuda.Presentation.csproj", "{5074B6FE-E775-4D3A-A53A-DCFC03192D67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D3430AE-B6C8-4B23-8D1F-E060CA7128CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D3430AE-B6C8-4B23-8D1F-E060CA7128CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D3430AE-B6C8-4B23-8D1F-E060CA7128CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D3430AE-B6C8-4B23-8D1F-E060CA7128CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F627CF16-BA49-4AFB-BB25-14506D621176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F627CF16-BA49-4AFB-BB25-14506D621176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F627CF16-BA49-4AFB-BB25-14506D621176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F627CF16-BA49-4AFB-BB25-14506D621176}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C0CA5AF-AF60-47CF-B21D-D07F596DAD6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0CA5AF-AF60-47CF-B21D-D07F596DAD6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0CA5AF-AF60-47CF-B21D-D07F596DAD6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0CA5AF-AF60-47CF-B21D-D07F596DAD6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18DDB245-1BA5-47B1-B951-0ECC51C7065D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18DDB245-1BA5-47B1-B951-0ECC51C7065D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18DDB245-1BA5-47B1-B951-0ECC51C7065D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18DDB245-1BA5-47B1-B951-0ECC51C7065D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5074B6FE-E775-4D3A-A53A-DCFC03192D67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5074B6FE-E775-4D3A-A53A-DCFC03192D67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5074B6FE-E775-4D3A-A53A-DCFC03192D67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5074B6FE-E775-4D3A-A53A-DCFC03192D67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
